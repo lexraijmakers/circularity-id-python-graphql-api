@@ -1,0 +1,7 @@
+Flask>=1.1.1
+Flask-GraphQL>=2.0.1
+graphene-mongo>=0.2.8
+mongomock>=3.18.0
+mongoengine>=0.18.2
+graphene>=2.1.8
+flask_cors>=3.0.8
